@@ -1,4 +1,4 @@
-package com.example.new_flutter_project
+package com.example.global_tour
 
 import io.flutter.embedding.android.FlutterActivity
 
